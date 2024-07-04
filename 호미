@@ -4,3 +4,5 @@ def odd(x, y):
         return x
     else:
         return y
+
+        print(x, y)
